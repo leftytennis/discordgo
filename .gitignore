@@ -1,5 +1,6 @@
 # IDE-specific metadata
 .idea/
+tools/cmd/eventhandlers/
 
 # Environment variables. Useful for examples.
 .env
